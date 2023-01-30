@@ -1,1 +1,1 @@
-https://jamanrased.github.io/leader-board-bootstrap/
+https://jamanrased.github.io/leader-board-bootstrap-update/
